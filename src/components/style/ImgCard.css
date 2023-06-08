@@ -1,0 +1,9 @@
+.pictureBox {
+    margin-bottom: 1.5rem;
+}
+
+.picture {
+    object-fit: cover;
+    width: 100%;
+    height: 30vh;
+}
